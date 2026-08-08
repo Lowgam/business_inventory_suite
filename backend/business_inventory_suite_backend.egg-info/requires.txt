@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg
+pydantic
+pydantic-settings
+alembic
+argon2-cffi
+redis
+email-validator
+
+[dev]
+pytest
+httpx
+pytest-cov
+ruff
+mypy
