@@ -7,7 +7,7 @@ dependencies = [
     "fastapi",
     "uvicorn",
     "sqlalchemy",
-    "psycopg",
+    "psycopg[binary]",
     "pydantic",
     "pydantic-settings",
     "alembic",
